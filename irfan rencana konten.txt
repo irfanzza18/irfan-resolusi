@@ -1,0 +1,5 @@
+Rencana Belajar irfan
+  - Membuat Api
+  - Mematangkan php
+  - Mematangkan UI Web programming
+  - Mematangkan DBMS

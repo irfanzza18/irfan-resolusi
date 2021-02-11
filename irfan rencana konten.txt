@@ -2,6 +2,7 @@ Rencana Belajar irfan
   - Learning Api
     *Menggunakan curl php
     *Post,Get,Token
+    *bermain authentication api
   - Mematangkan php
   - Mematangkan UI Web programming
   - Mematangkan DBMS

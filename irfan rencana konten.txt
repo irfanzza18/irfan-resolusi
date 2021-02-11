@@ -4,5 +4,7 @@ Rencana Belajar irfan
     *Post,Get,Token
     *bermain authentication api
   - Mematangkan php
+    ^acekiwir
+    ^koww
   - Mematangkan UI Web programming
   - Mematangkan DBMS
